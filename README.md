@@ -19,7 +19,7 @@ The intermediate qualitative results are stored in the *curr_res* directory. The
 
 For qualitative results, use the following code.
 ```
-python3 test.py --input_dir <path_to_test_directory> --model <path_to_stored_mode>
+python3 test.py --input_dir <path_to_test_directory> --model <path_to_stored_model>
 ```
 The results are stored in *output_results*.
 
